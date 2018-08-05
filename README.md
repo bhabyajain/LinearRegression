@@ -1,1 +1,1 @@
-# LinearRegression
+Given training and testing data of a diabetes dataset which contains 10 features such as (age,sex,weight,blood pressure,etc), I have predicted the indication of disease progression after one year by implementing linear regression without using gradient descent.
